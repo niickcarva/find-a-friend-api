@@ -21,9 +21,11 @@
   },
   "homepage": "https://github.com/niickcarva/find-a-friend-api#readme",
   "dependencies": {
+    "@prisma/client": "6.3.1",
     "fastify": "^5.2.1"
   },
   "devDependencies": {
+    "prisma": "6.3.1",
     "tsup": "^8.3.6",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
